@@ -5,22 +5,22 @@
 
 @font-face {
   font-family: 'OpenSans_Condensed-ExtraBold';
-  src: url('AlambradosDani/open-sans-condensed/condensed/OpenSans_Condensed-ExtraBold.ttf') format('truetype');
+  src: url('open-sans-condensed/condensed/OpenSans_Condensed-ExtraBold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'OpenSans_Condensed-Regular';
-  src: url('AlambradosDani/open-sans-condensed/condensed/OpenSans_Condensed-Regular.ttf') format('truetype');
+  src: url('open-sans-condensed/condensed/OpenSans_Condensed-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'OpenSans_Condensed-Light';
-  src: url('AlambradosDani/open-sans-condensed/condensed/OpenSans_Condensed-Light.ttf') format('truetype');
+  src: url('open-sans-condensed/condensed/OpenSans_Condensed-Light.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'OpenSans_Condensed-Medium';
-  src: url('AlambradosDani/open-sans-condensed/condensed/OpenSans_Condensed-Medium.ttf') format('truetype');
+  src: url('open-sans-condensed/condensed/OpenSans_Condensed-Medium.ttf') format('truetype');
 }
 
 /* base*/
